@@ -1,0 +1,54 @@
+.cv-page {
+  width: 100%;
+  max-width: 1024px;
+  padding: 0;
+  margin: 0 auto;
+}
+
+.cv-page-header {
+}
+
+.cv-page-main {
+}
+
+.cv-page-footer {
+  padding: 15px;
+  background-color: blue;
+  color: white;
+}
+
+.cv-section-header {
+  background-color: lightblue;
+  padding-left: 15px;
+}
+
+.cv-section {
+  text-align: justify;  
+}
+.cv-section p {
+  text-indent: 20px; 
+}
+
+.cv-section dl {
+  margin: 25px 0px 25px 0px;
+}
+
+.cv-section dt {
+  float: left; /* line up horizontally */
+  width: 180px; /* set term width */
+  font-weight: bold;
+}
+
+dd {
+  text-align: justify;
+  margin-left: 180px; 
+  margin-bottom: 5px;
+}
+
+.cv-photo {
+  float: right;
+}
+
+.cv-photo img {
+  width: 200px;
+}
